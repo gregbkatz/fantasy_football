@@ -1,4 +1,5 @@
 import numpy as np
+import pdb
 
 class Game: 
   def __init__(self, id1, id2):
